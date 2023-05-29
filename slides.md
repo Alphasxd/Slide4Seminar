@@ -37,7 +37,7 @@ Yongji Wu, Xiaoyu Cao, Jinyuan Jia, [Neil Zhenqiang Gong](https://gonglab.pratt.
 id: 1
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 
 <br>
@@ -46,7 +46,7 @@ id: 1
 
 # Data Statistics Collection
 
-<img src="data_collection.png" class="mx-auto" />
+<img src="/data_collection.png" class="mx-auto" />
 
 <!--
 - 在传统的数据统计收集方式中,当查询发送到云服务器时,云服务器直接收集用户数据,计算查询统计信息,并回答查询。在这种场景下,数据收集器或传感器服务器需要被信任.
@@ -57,7 +57,7 @@ id: 1
 id: 1
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -66,7 +66,7 @@ id: 1
 
 # Untrusted Server
 
-<img src="untrusted.png" class="mx-auto" width="570" />
+<img src="/untrusted.png" class="mx-auto" width="570" />
 
 <!--
 - 然而,现今用户希望保持其敏感数据的私密性,且服务器可能不可信任,因此研究人员提出了本地差分隐私协议来保护用户隐私。其主要想法是用户在将数据发送到服务器之前通过添加一些噪音来扰乱其数据。使用噪声数据,服务器仍然可以准确计算所需的数据统计信息,同时每个用户的数据无法精确恢复。 
@@ -78,7 +78,7 @@ id: 1
 id: 1
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -86,7 +86,7 @@ id: 1
 
 # Data Poisoning Attacks
 
-<img src="attack.png" class="mx-auto" />
+<img src="/attack.png" class="mx-auto" />
 
 <!--
 - 然而,在这项工作中,我们表明LDP协议容易受到数据污染攻击。
@@ -100,7 +100,7 @@ id: 1
 id: 1
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -144,7 +144,7 @@ id: 1
 id: 1
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 
 # Poisoning Attacks to LDP
@@ -200,7 +200,7 @@ id: 1
 id: 2
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 
@@ -250,7 +250,7 @@ id: 2
 id: 2
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -267,7 +267,7 @@ id: 2
 
 - #### **Key-value data is pervasive data form, widely used in:**
 
-<img src="KV_exmple.png" class="mx-auto" />
+<img src="/KV_exmple.png" class="mx-auto" />
 
 <!--
 > 今天的公司正在收集越来越多的数据来改进他们的服务。特别是键值数据是一种常见形式,已经在各个领域看到了应用。
@@ -281,7 +281,7 @@ id: 2
 id: 2
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -318,7 +318,7 @@ edge扩展商店和app store也可能希望收集关于应用的评级数据。�
 id: 2
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -327,7 +327,7 @@ id: 2
 
 # Popular Browsers
 
-<img src="popular.png" class="mx-auto" />
+<img src="/popular.png" class="mx-auto" />
 
 <!--
 假设一家公司想收集最受欢迎的浏览器,每个用户将有他频繁使用的浏览器作为他的数据。在将原始数据发送到服务器之前,用户将在本地扰动他的数据。其思想是,观察用户与服务器之间通信的对手无法自信地确定原始数据是什么。但是,某些统计信息可以稳定、准确地分析。例如,服务提供商仍然可以知道Chrome是最受欢迎的浏览器。
@@ -343,13 +343,13 @@ id: 2
 id: 2
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 
 # Protocols for Key-Value Data Collection
 
-<img src="ldp4kv.png" width="600" class="mx-auto" />
+<img src="/ldp4kv.png" width="600" class="mx-auto" />
 
 <br>
 
@@ -379,7 +379,7 @@ id: 2
 id: 2
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -387,7 +387,7 @@ id: 2
 
 # LDP is Vulnerable to Attacks
 
-<img src="attack2ldp.png" class="mx-auto" width="750" />
+<img src="/attack2ldp.png" class="mx-auto" width="750" />
 
 <!--
 - 由于分布式设置,LDP协议容易受到数据污染攻击,在这种攻击中,攻击者将假用户注入系统,并通过从假用户发送精心制作的数据来操纵服务器的分析结果。
@@ -406,7 +406,7 @@ id: 2
 id: 2
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -455,7 +455,7 @@ id: 2
 id: 3
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -480,7 +480,7 @@ id: 3
 id: 3
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -511,7 +511,7 @@ id: 3
 id: 3
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -520,7 +520,7 @@ id: 3
 
 # Random Message Attack (RMA)
 
-<img src="rma.png" class="mx-auto" />
+<img src="/rma.png" class="mx-auto" />
 
 <!--  
 - 在第一个基线攻击,随机消息攻击中,思路很简单。
@@ -532,7 +532,7 @@ id: 3
 id: 3
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -541,7 +541,7 @@ id: 3
 
 # Random Key-Value Pair Attack (RKVA)
 
-<img src="rkva.png" class="mx-auto" />
+<img src="/rkva.png" class="mx-auto" />
 
 <!--  
 - 第二种形式的攻击是随机键值对攻击,攻击者针对原始数据空间发起攻击。
@@ -553,7 +553,7 @@ id: 3
 id: 3
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -593,7 +593,7 @@ $$
 id: 4
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -626,7 +626,7 @@ id: 4
 id: 4
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -655,7 +655,7 @@ id: 4
 id: 4
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
@@ -686,7 +686,7 @@ id: 4
 id: 4
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 
@@ -714,7 +714,7 @@ id: 4
 id: 4
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 
@@ -722,7 +722,7 @@ id: 4
 
 | ***Promoting*** **one target key in a rating dataset with PCKV-UE protocol** |
 | :----------------------------------------------------------: |
-|  <img src="dataset.png" width="600" class="mx-auto" />  |
+|  <img src="/dataset.png" width="600" class="mx-auto" />  |
 |               **$\beta$: fraction of fake users**                |
 | ***Takeaway:*** **huge frequency and mean gains, even with a small $\beta$** |
 
@@ -735,14 +735,14 @@ id: 4
 id: 4
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
 
 # Empirical Evaluation - RecSys
 
-<img src="empirical.png" class="float-right ml-5" />
+<img src="/empirical.png" class="float-right ml-5" />
 
 **Promoting** 
 > *10 target items in a recommender system*
@@ -767,7 +767,7 @@ id: 4
 id: 5
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 
@@ -804,7 +804,7 @@ id: 5
 id: 5
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 
@@ -812,7 +812,7 @@ id: 5
 
 | False positive rate | False negative rate |
 | :-----------------: | :-----------------: |
-|   <img src="positive.png"  class="mx-auto" />    |    <img src="negative.png"  class="mx-auto" />       |
+|   <img src="/positive.png"  class="mx-auto" />    |    <img src="/negative.png"  class="mx-auto" />       |
 | OC: One-class classifier  | AS: Anomaly score  |
 
 
@@ -831,7 +831,7 @@ id: 5
 id: 6 
 ---
 
-<img src="DMU.png" class="top-5 right-5 absolute" width="80" />
+<img src="/DMU.png" class="top-5 right-5 absolute" width="80" />
 
 <br>
 <br>
