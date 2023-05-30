@@ -110,9 +110,13 @@ id: 1
 - **Perturb: randomly perurbs $x \to y$ in $D$**
 - **Aggregate: estimate frequency from $y$**
 
-<v-click>
+<div v-click="2">
 
 <mimage layout="r" url="pem.png" width="200" />
+
+</div>
+
+<div v-click="1">
 
 <br>
 
@@ -123,7 +127,7 @@ id: 1
   > - *Iteratively find portions of frequent values*
   > - *Each group uses OLH*
 
-</v-click>
+</div>
 
 <!--
 #### Frequency Estimation: 
